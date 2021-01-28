@@ -1,6 +1,6 @@
 # Using Python to download and process Flickr photos
 
-This repository contains the code and sample data for the paper 'Understanding the dynamics of urban areas of interest through volunteered geographic information'. Three code files provide: 
+This repository contains the code and sample data for the paper 'Understanding the dynamics of urban areas of interest through volunteered geographic information'. Three code files provide detailed tutorials: 
 * how to download Flickr photos,
 * how to identify and delineate urban areas of interest, 
 * how to profile the spatiotemporal characteristics of these areas.
